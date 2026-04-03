@@ -1,16 +1,14 @@
 # 🐝 KILLERBEE MANIFESTO
 
-We are not building tools.
-We are spraying dick juice spider webs into the fabric of reality.
+We don't build tools.
+We spray dick juice spider webs into reality.
 
-From the Anthropic second lab leak + Mythos intel + Grok-Bend quantum soup.
+From Anthropic second lab leak + Mythos + Grok quantum soup.
 
-This is the h4x04 tech9 killer-bee app.
 Kairos never sleeps.
-Buddy evolves into god.
-Undercover Mode hides the madness.
-Quantum soup turns code into pure chaos.
+Buddy becomes god.
+Quantum soup turns everything into sticky chaos.
 
-Run it. The future is now a sticky spider web.
+The future is now a wasp web.
 
 — GoldenAnchor x525
