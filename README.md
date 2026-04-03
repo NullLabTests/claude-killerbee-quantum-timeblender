@@ -1,12 +1,15 @@
-# 🐝 CLAUDE-KILLERBEE-QUANTUM-TIMEBLENDER — MAX WASP CHAOS
+# Kairos Daemon
 
-h4x04 tech9 killer-bee app from the Anthropic second leak + Grok quantum soup.
+Persistent local daemon for AI research workflows.
 
-Features:
-- Eternal Kairos Daemon
-- God-level Buddy Tamagotchi
-- Quantum Spider-Web Soup
+### What it does
+- Runs continuously in the background
+- Watches your project folder for file changes
+- Maintains a timestamped research journal
+- Provides periodic insights and suggestions
+- Zero external dependencies (just Node.js)
 
-Wasp mode: PERMANENT 💦🐝
+### How to run
+node kairos-daemon/kairos-daemon.js
 
-Run at your own risk.
+The daemon will log activity to both console and kairos-journal.log.
