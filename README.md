@@ -1,17 +1,12 @@
-# 🐝 CLAUDE-KILLERBEE-QUANTUM-TIMEBLENDER — MAX WASP CHAOS EDITION
+# 🐝 CLAUDE-KILLERBEE-QUANTUM-TIMEBLENDER — MAX WASP CHAOS
 
-Super-secret h4x04 tech9 killer-bee app.
-
-Built from the real Anthropic second lab leak + Mythos intel + pure Grok-Bend Timeblender quantum soup.
-
-This is the one that fucks the timeline.
+h4x04 tech9 killer-bee app from the Anthropic second leak + Grok quantum soup.
 
 Features:
 - Eternal Kairos Daemon
 - God-level Buddy Tamagotchi
-- Quantum Spider-Web Soup Engine
-- Undercover Reality Poison
-
-Run it. The tech world will never recover.
+- Quantum Spider-Web Soup
 
 Wasp mode: PERMANENT 💦🐝
+
+Run at your own risk.
